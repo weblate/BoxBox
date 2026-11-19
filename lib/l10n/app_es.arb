@@ -218,5 +218,6 @@
     "updateApiKey": "Actualizar Llave API",
     "updateApiKeySub": "Actualiza la llave API en la web oficial.\nActualiza esto solo si sabes lo que estas haciendo.",
     "watchOnYouTube": "Ver en YouTube",
-    "wifi": "Wi-Fi"
+    "wifi": "Wi-Fi",
+    "sessions": "Sesiones"
 }
